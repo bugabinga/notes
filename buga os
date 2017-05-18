@@ -1,0 +1,24 @@
+Linux Kernel
+
+EFISTUB
+
+A/B Partition(clear boot manager)
+
+Simple PID1 (runit?)
+
+Supervisor handles dependencies (habitat?)
+
+one FS (xfs?)
+
+wayland only
+
+start with limited hardware support
+
+source code of os can be changed in place, built an run. even kernel. then pushing to upstream from os.
+
+true beautiful text based ui
+
+single mono codebase
+
+completely greyscale theme
+
