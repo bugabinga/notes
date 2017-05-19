@@ -1,0 +1,6 @@
+# The plan is to document my learning process about OpenBSD and list everything that confused me in hopes, that the devs will find this useful to adapt the system for newbies. My theory is that this list might be useful, because people deeply involved have likely (by necessity?) lost perspective about how newcomers feel.
+
+- obsd-faq.txt still mentions CDs in 1.2.
+I believe those are not produced any more.
+
+
