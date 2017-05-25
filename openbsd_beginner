@@ -3,4 +3,5 @@
 - obsd-faq.txt still mentions CDs in 1.2.
 I believe those are not produced any more.
 
+- obsd-faq.txt mentions sudo in 1.8 and 2.3. Is this still true?
 

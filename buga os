@@ -8,7 +8,7 @@ Simple PID1 (runit?)
 
 Supervisor handles dependencies (habitat?)
 
-one FS (xfs?)
+one FS (xfs?) needs to support snapshots and automatic rollbacks, garbage collection and boot environmnts.
 
 wayland only
 
