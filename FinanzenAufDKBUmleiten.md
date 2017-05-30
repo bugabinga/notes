@@ -7,5 +7,5 @@ Umleitung aller Überweisungen von comdirect auf DKB
 * [x] PayPal
 * [x] Patreon
 * [x] GiveDirectly
-* [ ] Against Malaria
-* [ ] Simplytel
+* [x] Against Malaria
+* [x] Simplytel
