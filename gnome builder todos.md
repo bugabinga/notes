@@ -1,0 +1,4 @@
+- clipboard history
+- rust docs
+- keybindings docs (maybe eclipse style)
+- 
