@@ -12,7 +12,7 @@
   - procs: view running processes
   - tokei: count lines of code
   - sn: inspect file sizes
-  - broot: fuzzy tree navigation
+  - broot-\>br: fuzzy tree navigation
   - hunter: terminal file explorer
   - onefetch: display overview info about software project
   - mrh: show git status for all repos
@@ -39,3 +39,9 @@
   - humhub: max file upload size and imagemagick
   - humhub: +r für upload/file
   - use oliverkrylow.com
+  - ignore devices in ldmc
+  - disable audio device when not in use
+- make arch package with all my stuff (hooks, efistub,...)
+- place home and var on 2nd sdd
+- install usbguard
+- install openbsd on sdb
